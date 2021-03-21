@@ -1,0 +1,10 @@
+.label {
+    -fx-font: 20px "Serif";
+}
+.table-view {
+    -fx-font: 16px "Serif";
+}
+
+#my-table .table-column {
+    -fx-alignment: CENTER;
+}

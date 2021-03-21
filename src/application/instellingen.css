@@ -1,0 +1,18 @@
+.radio-button {
+    -fx-font: 16px "Serif";
+    -fx-color: #343033;
+    -fx-padding: 10 70 10 0;
+}
+.radio-button:selected {
+    -fx-color: #90ff7a;
+    -fx-padding: 0 70 10 0;
+}
+.radio-button:hover .radio {
+    -fx-color: #edff42;
+}
+.label {
+    -fx-font: 16px "Serif";
+}
+#my-table .table-column {
+    -fx-alignment: CENTER;
+}
